@@ -32,7 +32,7 @@ HTML, JavaScript, CSS, TailwindCSS, Bootstrap, Laravel, Livewire, Node.js, Pytho
 
 I'm open to collaborations on projects that challenge my creativity and technical skills. If you're interested in working with me or just want to say hi, feel free to reach out.
 
-- **Twitter**: [@Reddishye](https://twitter.com/Reddishye)
+- **Twitter**: [@Redactado8](https://twitter.com/Redactado8)
 - **LinkedIn**: [Hugo Torres](https://linkedin.com/in/hugo-torres-66a9a1263)
 - **Bluesky**: [Redactado](https://bsky.app/profile/redactado.es)
 - **Website**: [redactado.es](https://redactado.es)
