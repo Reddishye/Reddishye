@@ -40,7 +40,7 @@ I'm open to collaborations on projects that challenge my creativity and technica
 
 ## Contributions & Stats :bar_chart:
 
-![Reddishye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reddishye&show_icons=true&theme=synthwave)
+![Reddishye's Stats](https://github-readme-stats.vercel.app/api?username=Reddishye&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## Inspiration & Acknowledgments 🙏
 
