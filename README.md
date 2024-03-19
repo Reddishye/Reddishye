@@ -46,7 +46,6 @@ I'm open to collaborations on projects that challenge my creativity and technica
 This README is inspired by the best practices and examples from the GitHub community. Special thanks to all the content creators who share their knowledge and to the GitHub community for being a constant source of inspiration.
 
 ### Special thanks ⭐
-- [@Angelillo15](https://github.com/Angelillo15) - For teaching me the best practicies for Java & Web Development.
 - [@anjoismysign](https://github.com/anjoismysign) - For emotionally supporting me and teaching me about AI.
 - [@RubenArtz](https://github.com/RubenArtz) - For giving me oportunities to learn.
 - [@hlanchas](https://github.com/hlanchas) - For being such an amazing teacher!
