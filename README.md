@@ -20,7 +20,6 @@ I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**
   - **RTimers**: HCF style timers for TAB plugin.
   - More to come!
 - **STN-Studios Transcripts**: Developer for the transcript panel of the STN-Studios development hub.
-- **Nookure (Staff)**: Providing support on the Discord server for [@Nookure](https://github.com/Nookure) ([@Angelillo15](https://github.com/Angelillo15)).
 
 ## Technologies & Tools ⚙️
 
