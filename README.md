@@ -12,13 +12,19 @@ I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**
 
 ## Featured Projects ✨
 
-- **FullAccess**: A Minecraft Survival server running version 1.20.4.
-- **Korumis**: Details are coming soon; it's a secret project for now.
-- **ChikyPandy**: A community for Valorant players.
+- **SpaceMC Newtork**: Including plugins like:
+  - **SpaceNightVision**: A simple night vision plugin that fixes issues most of the plugins have.
+  - **RandomUtils**: A plugin with a high-variety of features, including:
+      - Timed Blocks
+      - Protected Regions (customize with a detailed system of filters when to cancel block placement or break)
+      - Night Vision (integrated SpaceNightVision into randomutils, however, SNV is OSS and RandomUtils closed source)
+      - Rankup System with command execution per rankup on death (made for RandomKits servers)
+      - Spawn teleportation
+      - Economy blocks with multi-currency support
+      - Basic death cosmetics with Cross-Server support
 - **Redactado's Hub**: Minecraft plugin development, including:
   - **Orbit**: Hub Core plugin.
   - **RTimers**: HCF style timers for TAB plugin.
-  - More to come!
 - **STN-Studios Transcripts**: Developer for the transcript panel of the STN-Studios development hub.
 
 ## Technologies & Tools ⚙️
