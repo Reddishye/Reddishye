@@ -12,9 +12,7 @@ I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**
 
 ## Featured Projects ✨
 
-- **SpaceMC Newtork**: Including plugins like:
-  - **SpaceNightVision**: A simple night vision plugin that fixes issues most of the plugins have.
-  - **RandomUtils**: A plugin with a high-variety of features, including:
+- **RandomUtils**: A plugin with a high-variety of features, including:
       - Timed Blocks
       - Protected Regions (customize with a detailed system of filters when to cancel block placement or break)
       - Night Vision (integrated SpaceNightVision into randomutils, however, SNV is OSS and RandomUtils closed source)
@@ -22,15 +20,13 @@ I'm Hugo Torres, known in the digital universe as **Reddishye** or **Redactado**
       - Spawn teleportation
       - Economy blocks with multi-currency support
       - Basic death cosmetics with Cross-Server support
-- **Redactado's Hub**: Minecraft plugin development, including:
-  - **Orbit**: Hub Core plugin.
-  - **RTimers**: HCF style timers for TAB plugin.
 - **STN-Studios Transcripts**: Developer for the transcript panel of the STN-Studios development hub.
+- **EMv3**: A tool to manage Roblox Events (for clans). To be released.
 
 ## Technologies & Tools ⚙️
 
 ```text
-HTML, JavaScript, CSS, TailwindCSS, Bootstrap, Laravel, Livewire, Node.js, Python, PHP, Java
+TailwindCSS, Bootstrap (long time without using it!), Laravel, Livewire, Node.js, Python, PHP, Java, Hibernate, React
 ```
 
 ## Collaboration & Contact 📫
@@ -40,8 +36,8 @@ I'm open to collaborations on projects that challenge my creativity and technica
 - **Twitter**: [@Redactado8](https://twitter.com/Redactado8)
 - **LinkedIn**: [Hugo Torres](https://linkedin.com/in/hugo-torres-66a9a1263)
 - **Bluesky**: [Redactado](https://bsky.app/profile/redactado.es)
-- **Website**: [redactado.es](https://redactado.es)
-- **Email**: [contact@redactado.es](mailto:contact@redactado.es)
+- **Website**: [redactado.com](https://redactado.com)
+- **Email**: [contact@redactado.com](mailto:contact@redactado.com)
 
 ## Contributions & Stats :bar_chart:
 
@@ -56,3 +52,4 @@ This README is inspired by the best practices and examples from the GitHub commu
 - [@RubenArtz](https://github.com/RubenArtz) - For giving me oportunities to learn.
 - [@hlanchas](https://github.com/hlanchas) - For being such an amazing teacher!
 - [@IagoFar](https://github.com/IagoFar) - For staying with me on this awaesome adventure.
+- [@Lunna5](https://github.com/Lunna5) - For teaching me the basics of a good codebase.
