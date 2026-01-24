@@ -34,7 +34,7 @@ TailwindCSS, Bootstrap (long time without using it!), Laravel, Livewire, Node.js
 I'm open to collaborations on projects that challenge my creativity and technical skills. If you're interested in working with me or just want to say hi, feel free to reach out.
 
 - **Twitter**: [@Redactado8](https://twitter.com/Redactado8)
-- **LinkedIn**: [Hugo Torres](https://linkedin.com/in/hugo-torres-66a9a1263)
+- **LinkedIn**: [Hugo Torres](https://www.linkedin.com/in/reddishye/)
 - **Bluesky**: [Redactado](https://bsky.app/profile/redactado.es)
 - **Website**: [redactado.com](https://redactado.com)
 - **Email**: [contact@redactado.com](mailto:contact@redactado.com)
