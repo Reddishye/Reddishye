@@ -51,5 +51,5 @@ This README is inspired by the best practices and examples from the GitHub commu
 - [@anjoismysign](https://github.com/anjoismysign) - For emotionally supporting me and teaching me about AI.
 - [@RubenArtz](https://github.com/RubenArtz) - For giving me oportunities to learn.
 - [@hlanchas](https://github.com/hlanchas) - For being such an amazing teacher!
-- [@IagoFar](https://github.com/IagoFar) - For staying with me on this awaesome adventure.
+- [@x341dev](https://github.com/x341dev) - For staying with me on this awaesome adventure.
 - [@Lunna5](https://github.com/Lunna5) - For teaching me the basics of a good codebase.
